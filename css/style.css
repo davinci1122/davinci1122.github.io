@@ -94,7 +94,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 40px;
+  padding: 25px 40px;
 }
 
 .header-logo {
@@ -156,12 +156,6 @@ img {
   height: 85vh;
   text-align: center;
  }
-
- .mv-body{
-  background-image: url("C:\Users\daich\OneDrive\Documents\Homepage\davinci1122.github.io\img\Senstep.jpg");
-  background-size: cover;
-}
-
 
 .mv-container {
   padding: 0 40px;
@@ -344,6 +338,8 @@ img {
 ---------------------------------*/
 .article {
   padding: 80px 0;
+  background-color: #ffffff;
+  background-size: contain;
 }
 
 .article-container {
