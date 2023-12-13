@@ -19,7 +19,6 @@ img {
   vertical-align: bottom;
   border-style: none;
 }
-.resizeimage img { width: 100%; }
 
 
 .pc-only {
@@ -212,6 +211,7 @@ img {
 .works-img img {
   border: 1px solid #e6e6e6;
   height: 250px;
+  .resizeimage img { width: 100%; }
 }
 
 .works-name {
@@ -247,6 +247,8 @@ img {
   width: 100px;
   margin-right: 20px;
 }
+
+.resizeimage img { width: 100%; }
 
 .skill-body {
   flex: 1;
@@ -366,6 +368,7 @@ img {
 .article-img{
   max-width: 350px;
   margin: 5% auto 5% auto ;
+  .resizeimage img { width: 100%; }
 
 }
 
@@ -544,6 +547,7 @@ img {
     width: 150px;
     margin: 0 auto;
     margin-bottom: 25px;
+    .resizeimage img { width: 100%; }
   }
 
   .profile-body p {
